@@ -29,13 +29,6 @@
 🔹<a  href="https://github.com/boidushya/boidushya.com/issues">Request Feature</a>
 </h3>
 
-## TL;DR
-
-You can fork this repo to modify and make changes of your own. Please give me
-proper credit by linking back to
-[boidushya](https://github.com/boidushya/boidushya.com). Thanks!
-
-> Best viewed on Chrome version 80+ and Firefox version 75+
 
 ## Built With
 
@@ -121,6 +114,7 @@ A special thanks to Boidushya for the help in creating this website.
 
 Girish's portfolio website is the perfect choice for anyone looking to make a lasting impression. With its unique design, interactive features and easy customization options, you're sure to stand out from the crowd. Give it a try today and see for yourself!
   
+
 
 
 
