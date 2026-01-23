@@ -98,9 +98,9 @@ Give a ⭐ if you like this website and drop a follow/DM me on
 
 ---
 
-## Welcome to Aditya's Portfolio Website
+## Welcome to Girish's Portfolio Website
 
-Are you looking for a sleek and modern portfolio website that stands out from the crowd? Look no further! Aditya's portfolio website is the perfect choice for showcasing your projects and skills.
+Are you looking for a sleek and modern portfolio website that stands out from the crowd? Look no further! Girish's portfolio website is the perfect choice for showcasing your projects and skills.
 
 Built using the latest technologies such as React.js, Node.js, CSS3, and VsCode, this website offers a unique and interactive experience for visitors. The website emulates the look of a macOS terminal and is fully responsive, ensuring that it looks great on any device.
 
@@ -119,7 +119,8 @@ If you like this website, please give it a ⭐. Your support is greatly apprecia
 A special thanks to Boidushya for the help in creating this website.
 ## Conclusion
 
-Aditya's portfolio website is the perfect choice for anyone looking to make a lasting impression. With its unique design, interactive features and easy customization options, you're sure to stand out from the crowd. Give it a try today and see for yourself!
+Girish's portfolio website is the perfect choice for anyone looking to make a lasting impression. With its unique design, interactive features and easy customization options, you're sure to stand out from the crowd. Give it a try today and see for yourself!
   
+
 
 
