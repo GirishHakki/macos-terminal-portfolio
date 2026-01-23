@@ -96,6 +96,8 @@ accordingly.
 Give a ⭐ if you like this website and drop a follow/DM me on
 [Twitter](https://twitter.com/boidushya)!
 
+---
+
 ## Welcome to Aditya's Portfolio Website
 
 Are you looking for a sleek and modern portfolio website that stands out from the crowd? Look no further! Aditya's portfolio website is the perfect choice for showcasing your projects and skills.
@@ -119,4 +121,5 @@ A special thanks to Boidushya for the help in creating this website.
 
 Aditya's portfolio website is the perfect choice for anyone looking to make a lasting impression. With its unique design, interactive features and easy customization options, you're sure to stand out from the crowd. Give it a try today and see for yourself!
   
+
 
