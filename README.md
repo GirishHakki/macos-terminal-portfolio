@@ -13,16 +13,7 @@
 
 <br/>
 
-<div align="center">
-  
-  <a href="">![opensource](https://img.shields.io/badge/open-source-red)</a>
-  <a href="">![love](https://img.shields.io/badge/built_with-💙-yellow)</a>
-  <a href="">![js](https://img.shields.io/badge/language-js-blue)</a>
- 
-  <a href="/">![stars](https://img.shields.io/github/stars/boidushya/boidushya.com)</a>
-  <a href="/">![forks](https://img.shields.io/github/forks/boidushya/boidushya.com)</a>
-  
-</div>
+
 
 
 ## Built With
@@ -104,6 +95,7 @@ A special thanks to Boidushya for the help in creating this website.
 
 Girish's portfolio website is the perfect choice for anyone looking to make a lasting impression. With its unique design, interactive features and easy customization options, you're sure to stand out from the crowd. Give it a try today and see for yourself!
   
+
 
 
 
