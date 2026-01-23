@@ -24,11 +24,6 @@
   
 </div>
 
-<h3 align="center">
-🔹<a  href="https://github.com/boidushya/boidushya.com/issues">Report Bug</a> &nbsp; &nbsp;
-🔹<a  href="https://github.com/boidushya/boidushya.com/issues">Request Feature</a>
-</h3>
-
 
 ## Built With
 
@@ -109,6 +104,7 @@ A special thanks to Boidushya for the help in creating this website.
 
 Girish's portfolio website is the perfect choice for anyone looking to make a lasting impression. With its unique design, interactive features and easy customization options, you're sure to stand out from the crowd. Give it a try today and see for yourself!
   
+
 
 
 
