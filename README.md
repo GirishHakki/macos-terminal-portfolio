@@ -54,11 +54,6 @@ This project was built using these following:
 **🎨 Styled with React, Styled-Components and SCSS with easy to customize
 colors**
 
-**🧱 Most features built from scratch, including the
-[dock](https://codesandbox.io/p/sandbox/mac-dock-react-sz5dxf?file=%2Fsrc%2Findex.css&selection=%5B%7B%22endColumn%22%3A2%2C%22endLineNumber%22%3A79%2C%22startColumn%22%3A1%2C%22startLineNumber%22%3A75%7D%5D)**
-(Huge thanks to [@PuruVJ](https://github.com/PuruVJ) for the inspiration! You
-can check out his version using svelte and popmotion
-[here](https://github.com/PuruVJ/macos-web-svelte-dock))
 
 ## Getting Started
 
@@ -114,6 +109,7 @@ A special thanks to Boidushya for the help in creating this website.
 
 Girish's portfolio website is the perfect choice for anyone looking to make a lasting impression. With its unique design, interactive features and easy customization options, you're sure to stand out from the crowd. Give it a try today and see for yourself!
   
+
 
 
 
