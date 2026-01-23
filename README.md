@@ -1,7 +1,7 @@
 <h2 align="center">
 <br/>
 
-<a  href="http://boidushya.com/"  target="_blank">boidushya.com</a>
+<a  href="http://boidushya.com/"  target="_blank">Girish Hakki</a>
 
 </h2>
 
@@ -40,7 +40,7 @@ proper credit by linking back to
 ## Built With
 
 My personal portfolio
-<a  href="http://boidushya.com/"  target="_blank">boidushya.com</a> made using
+<a  href="http://boidushya.com/"  target="_blank">Girish Hakki</a> made using
 ReactJS and styled-components emulating a macOS terminal among other
 features.<br/>
 
@@ -121,6 +121,7 @@ A special thanks to Boidushya for the help in creating this website.
 
 Girish's portfolio website is the perfect choice for anyone looking to make a lasting impression. With its unique design, interactive features and easy customization options, you're sure to stand out from the crowd. Give it a try today and see for yourself!
   
+
 
 
 
