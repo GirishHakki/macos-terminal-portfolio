@@ -2,6 +2,7 @@
 	"name": "client",
 	"version": "0.1.0",
 	"private": true,
+	"homepage": "https://terminal.girishhakki.xyz",
 	"dependencies": {
 		"@craco/craco": "^7.0.0",
 		"@radix-ui/react-menubar": "^1.0.0",
