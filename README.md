@@ -1,7 +1,7 @@
 <h2 align="center">
 <br/>
 
-<a  href="http://boidushya.com/"  target="_blank">Girish Hakki</a>
+<a  href="https://girishhakki.xyz/"  target="_blank">Girish Hakki</a>
 
 </h2>
 
@@ -19,7 +19,7 @@
 ## Built With
 
 My personal portfolio
-<a  href="http://boidushya.com/"  target="_blank">Girish Hakki</a> made using
+<a  href="https://girishhakki.xyz/"  target="_blank">Girish Hakki</a> made using
 ReactJS and styled-components emulating a macOS terminal among other
 features.<br/>
 
